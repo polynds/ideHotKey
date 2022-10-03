@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.polynds.idehotkey.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.polynds.idehotkey.MyBundle
 
 class MyApplicationService {
 
